@@ -1,5 +1,5 @@
 # ChatDot
-Counselling ChatBot For Education,Entertainment And Sports  
+Career Counselling ChatBot For Education,Entertainment And Sports  
 # ABSTRACT
 * Chatbot for science students who intend on pursuing engineering in future 
 * Our Bot has the ability to mimic the User Voice and passed the Turing Test
