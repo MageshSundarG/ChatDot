@@ -17,6 +17,3 @@ counsellor.
 interests and capabilities.
 **KINDLY CHECKOUT THE PDF FOR THE COMPLETE DETAILS ABOUT CHATDOT**
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-mageshsundarg.vercel.app/api/spotify)](https://open.spotify.com/user/sz32rkhk8k4f6sdmsebhsbzm2)
