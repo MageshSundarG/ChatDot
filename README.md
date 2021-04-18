@@ -16,6 +16,7 @@ counsellor.
 * This system helps the user to choose the right career that they should follow according to their
 interests and capabilities.
 **KINDLY CHECKOUT THE PDF FOR THE COMPLETE DETAILS ABOUT CHATDOT**
+
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-2wqbn516z-mageshsundarg.vercel.app/api/spotify-playing" alt="MageshSundar Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://novatorem-mageshsundarg.vercel.app/api/spotify)](https://open.spotify.com/user/sz32rkhk8k4f6sdmsebhsbzm2)
